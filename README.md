@@ -1,0 +1,1 @@
+This repo is me learning how git and github actually work. My coding has been lacking and I'm trying to get better at it so this is my attempt. I've been using codedex to learn how to do some of the git/github stuff and done some very basic python review. Here's my shot at it!
